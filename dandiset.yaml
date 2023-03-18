@@ -6,9 +6,30 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach:
+  - name: microscopy approach; cell population imaging
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: two-photon microscopy technique
+    schemaKey: MeasurementTechniqueType
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 2481369
+  numberOfFiles: 2
+  numberOfSubjects: 2
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9615
+    name: Canis lupus familiaris - Dog
+    schemaKey: SpeciesType
+  variableMeasured:
+  - OpticalChannel
+  - ImagingPlane
+  - TwoPhotonSeries
 citation: Davis Ozawa, Hunter (2023) Cohen Tickertapes Exploratory Data 1 (Version
   draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
 contributor:
