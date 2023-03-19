@@ -31,8 +31,8 @@ assetsSummary:
   - OpticalChannel
   - ImagingPlane
   - TwoPhotonSeries
-citation: Davis Ozawa, Hunter (2023) Cohen Tickertapes Exploratory Data 1 (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000461/draft
+citation: Davis Ozawa, Hunter; National Institutes of Health (2023) Cohen Tickertapes
+  Exploratory Data 1 (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000461/draft
 contributor:
 - affiliation: []
   email: hdavis@caltech.edu
@@ -41,6 +41,15 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- awardNumber: 1 R21 EY 033669-01
+  contactPoint: []
+  identifier: https://ror.org/01cwqze88
+  includeInCitation: true
+  name: National Institutes of Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: nih.gov
 dateCreated: '2023-03-18T15:51:51.664534+00:00'
 description: Exploratory dataset for the second generation of molecular tickertapes
   in the Adam Cohen Lab.
