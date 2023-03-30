@@ -49,7 +49,7 @@ contributor:
   roleName:
   - dcite:Funder
   schemaKey: Organization
-  url: nih.gov
+  url: https://nih.gov
 dateCreated: '2023-03-18T15:51:51.664534+00:00'
 description: Exploratory dataset for the second generation of molecular tickertapes
   in the Adam Cohen Lab.
